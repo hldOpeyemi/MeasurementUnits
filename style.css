@@ -1,53 +1,68 @@
 #one {
-    width: 100cm;
-    height: 100cm;
+    width: 5cm;
+    height: 5cm;
     background-color: aqua;
 }
 
 #two {
-    width: 100mm;
-    height: 100mm;
+    width: 5mm;
+    height: 5mm;
     background-color: burlywood;
 }
 
 #three {
-    width: 100in;
-    height: 100in;
+    width: 1in;
+    height: 1in;
     background-color: gray;
 }
 
 #four {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     background-color: aquamarine;
 }
 
 #five {
-    width: 100pt;
-    height: 100pt;
+    width: 50pt;
+    height: 50pt;
     background-color: slateblue;
 }
 
 #six {
-    width: 100pc;
-    height: 100pc;
+    width: 10pc;
+    height: 10pc;
     background-color: rosybrown;
 }
 
 #seven {
-    width: 100vw;
-    height: 100vh;
+    width: 10vw;
+    height: 10vh;
     background-color: darkorange;
 }
 
 #eight {
-    width: 100vw;
-    height: 100vh;
+    width: 10vw;
+    height: 10vh;
     background-color:plum;
 }
 
 #nine {
-    width: 100vw;
-    height: 100vh;
+    width: 10vw;
+    height: 10vh;
     background-color: lawngreen;
 }
+
+#P1 {
+    font-size: 2rem;
+    width: 75vw;
+    height: 50vh;
+    background-color: powderblue;
+}
+
+#P2 {
+    font-size: 2em;
+    width: 75vw;
+    height: 50vh;
+    background-color: navajowhite;
+}  
+
